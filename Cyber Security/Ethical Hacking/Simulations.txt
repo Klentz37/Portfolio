@@ -1,0 +1,32 @@
+1. 
+    Creating an Anti-Virus Policy and Guidelines Document for a Company
+
+
+2. 
+    Use WireShark to Find Packets that Contian User information; Username, Passowrd
+    run Traceroute, Trout and Visual TraceRoute applications on website : Yandex.com to see what information is provided
+
+3. NMap Reconnaissance
+    Given a website, Use NMap to obtain Passive Reconnaissance
+    1) Intense Scan Plus TCP ports
+        nmap -sT
+    2) Stealth Scan
+        nmap -sS
+    3) FingerPrint Scan
+        nmap -O -v
+    4) Intense Scan Plus UDP
+        nmap -sU
+
+    x) Find Email exchnge website uses
+        Use nslookup and set type to equal MX 
+
+
+4. NetCat vs NetStat
+      NetCat is a powerful network utility that can read and write data across the network,
+      over TCP/IP or UDP. This requires an IP and port to work.
+      NetStat - used for troubleshooting and configuration,it can also serve as a monitoring
+      tool for connections over the network.
+      Comparison of the two, Netstat is for Diagnostics, while Netcat is for diagnostics and
+      capable of Opening portsm sending and receiving packets
+
+5.
