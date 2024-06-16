@@ -1,0 +1,30 @@
+Class Labs 
+
+1. 
+Lab Details : Check Files MD5 Hashvalue and compare files based on their Hash Value to see if they have been altered.
+Tools : Command Prompt/PowerShell or 7zip
+
+  Directions : 
+  1. Open Command Prompt
+  2. cd into folder where file is located
+  3. certutil -hashfile <file> [MD5, SHA1, SHA256]
+     certutil -hashfile image1.png MD5
+  4. Write down HashCode
+  5. repeat steps 3 and 4 until all files hashcode has been written down
+  6. Compare Values of files
+
+
+2.   Unknwon
+
+3. WinHex of Files
+
+4. Using exiftoolgui - viewing/editing metadata inside image files
+
+5. Internet and e-mail Analysis
+
+6. PreFetch and Shortcut Analysis 
+
+Final Exam : 
+Using a Live USB Stick
+1. Create an Image of USB
+2. Find all info to convit an enemy (more info to come when found)
