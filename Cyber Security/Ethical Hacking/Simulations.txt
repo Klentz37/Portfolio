@@ -29,4 +29,13 @@
       Comparison of the two, Netstat is for Diagnostics, while Netcat is for diagnostics and
       capable of Opening portsm sending and receiving packets
 
-5.
+5. Tactics and implementations against DDos Attacks
+
+6. Creating a Webgoat Server in Kali Linux to Learn about SQL Injection
+
+7. Buffer Overflows, Tracking and how they're exploited
+
+8. Masking our own Mac address and Finding Users MAC address on a network
+
+0. Created an InfoGraphic PDF about password Creation
+0a. Created a Dossier on a Subject using publicly found Information
